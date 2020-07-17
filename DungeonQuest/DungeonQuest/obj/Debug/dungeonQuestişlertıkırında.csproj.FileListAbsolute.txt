@@ -1,0 +1,13 @@
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe.config
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestişlertıkırında.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestişlertıkırında.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.exe
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.aa.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.FinalForm.resources

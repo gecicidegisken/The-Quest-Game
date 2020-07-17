@@ -1,0 +1,53 @@
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe.config
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\bin\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.FinalForm.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.aa.resources
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.exe
+C:\Users\lenovo\Source\Repos\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe.config
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\bin\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.FinalForm.resources
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.resources
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.aa.resources
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.exe
+C:\Users\lenovo\Desktop\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe.config
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.FinalForm.resources
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.resources
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Properties.Resources.resources
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.aa.resources
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.exe
+C:\Users\lenovo\Desktop\180101042 - Hilal Elif Mutlu (The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe.config
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.exe
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\bin\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.FinalForm.resources
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.resources
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Properties.Resources.resources
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.Form1.aa.resources
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\aa\DungeonQuest.resources.dll
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.exe
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\DungeonQuest.pdb
+C:\Users\lenovo\Desktop\okul\2. yarıyıl\DERSLER\Algoritma ve Programlama 2\Projeler\(The Quest Game)\DungeonQuest\DungeonQuest\obj\Debug\dungeonQuestFinal.csproj.CoreCompileInputs.cache
